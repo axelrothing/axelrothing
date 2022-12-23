@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Axel Rothing
-- 👀 I’m interested in basic python development 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python development and I'm very into making GUI's with Customtkinter
+- 🌱 I’m currently doing many different python projects
 - 📫 How to reach me - axelrothing@icloud.com
 
 <!---
