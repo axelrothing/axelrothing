@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Axel Rothing
-- 👀 I’m interested in python development and I'm very into making GUI's with Customtkinter
-- 🌱 I’m currently doing many different python projects
+- 👀 I’m interested in AI development with Python
+- 🌱 I’m currently working on Jarvis, a AI voice assistant with a modern UI and features powered by GPT and Elevenlabs TTS
 - 📫 How to reach me - axelrothing@icloud.com
 
 <!---
