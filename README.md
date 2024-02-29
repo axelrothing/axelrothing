@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Axel Rothing
 - 👀 I’m interested in AI development with Python
-- 🌱 I’m currently working on Jarvis, a AI voice assistant with a modern UI and features powered by GPT and Elevenlabs TTS
+- 🌱 I’m currently working on Jarvis, a AI voice assistant with a modern UI and features powered by the latest OpenAI models
 - 📫 How to reach me - axelrothing@icloud.com
 
 <!---
